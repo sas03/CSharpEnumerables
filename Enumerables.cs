@@ -10,7 +10,7 @@ public class Enumerables
     public void Moyenne(int n){
         IEnumerable<int> inferiorEqual = tableau.Where(x => x <= n);
         int moyenne = tableau.Where(x => x <= n).Aggregate((x,y) => x + y) / inferiorEqual.Count();
-        Console.WriteLine(moyenne);
+        Console.WriteLine("Average = " + moyenne);
     }
     public static void Main(string[] args)
     {
