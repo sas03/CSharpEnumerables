@@ -1,0 +1,15 @@
+C:\Informatique\CSharp\wildschool\Enumerable\obj\Debug\net7.0\Enumerable.csproj.AssemblyReference.cache
+C:\Informatique\CSharp\wildschool\Enumerable\obj\Debug\net7.0\Enumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informatique\CSharp\wildschool\Enumerable\obj\Debug\net7.0\Enumerable.AssemblyInfoInputs.cache
+C:\Informatique\CSharp\wildschool\Enumerable\obj\Debug\net7.0\Enumerable.AssemblyInfo.cs
+C:\Informatique\CSharp\wildschool\Enumerable\obj\Debug\net7.0\Enumerable.csproj.CoreCompileInputs.cache
+C:\Informatique\CSharp\wildschool\Enumerable\bin\Debug\net7.0\Enumerable.exe
+C:\Informatique\CSharp\wildschool\Enumerable\bin\Debug\net7.0\Enumerable.deps.json
+C:\Informatique\CSharp\wildschool\Enumerable\bin\Debug\net7.0\Enumerable.runtimeconfig.json
+C:\Informatique\CSharp\wildschool\Enumerable\bin\Debug\net7.0\Enumerable.dll
+C:\Informatique\CSharp\wildschool\Enumerable\bin\Debug\net7.0\Enumerable.pdb
+C:\Informatique\CSharp\wildschool\Enumerable\obj\Debug\net7.0\Enumerable.dll
+C:\Informatique\CSharp\wildschool\Enumerable\obj\Debug\net7.0\refint\Enumerable.dll
+C:\Informatique\CSharp\wildschool\Enumerable\obj\Debug\net7.0\Enumerable.pdb
+C:\Informatique\CSharp\wildschool\Enumerable\obj\Debug\net7.0\Enumerable.genruntimeconfig.cache
+C:\Informatique\CSharp\wildschool\Enumerable\obj\Debug\net7.0\ref\Enumerable.dll
