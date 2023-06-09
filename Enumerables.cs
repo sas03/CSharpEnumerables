@@ -6,8 +6,8 @@ using System.Linq;
 
 public class Enumerables
 {
-    List<int> tableau;
-    int n;
+    public List<int> tableau;
+    public int n;
     public void Moyenne(int n){
         this.n = n;
         IEnumerable<int> inferiorEqual = tableau.Where(x => x <= this.n);
